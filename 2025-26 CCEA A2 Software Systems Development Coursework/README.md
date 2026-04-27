@@ -1,5 +1,9 @@
 # CCEA 2025-26 A2 SSD Coursework
 
+<p align="center">
+  <img src="assets/images/dohertyCars.png" />
+</p>
+
 This project was based off of a case study, that is included in this repo cause CCEA love deleting files. The option selected for this project was the Test Drive Booking problem.
 
 The managers username is jmanager6 and all account passwords are Password123!
@@ -12,6 +16,4 @@ Because this project is case study focused idk how much of it will be useful to 
 
 **I made a point to not use any AI slop at any point in development for any reason. Because lets be honest, using AI to generate your coursework is cheating because you didn't actually do the work.**
 
-![alt text][logo]
 
-  [logo]: assets/images/dohertyCars.png "Dohery Cars Logo"
