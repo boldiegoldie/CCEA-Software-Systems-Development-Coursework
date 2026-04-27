@@ -1,0 +1,20 @@
+e/1234/44/cA/Which of these are real versions of Windows?/Windows 95/Windows 3.2/Windows 10/Windows 7
+h/34/44/cB/Which of these are real Linux distributions?/Sardine Linux/Temple OS/Hanna Montana Linux/Red Star OS
+e/1234/44/cC/Which of these are registers in the CPU?/Memory Data Register/Memory Address Register/Accumulator/Program Counter
+h/123/44/cD/Which of these are valid speeds for DDR4 RAM?/2933MHz/1366MHz/2400MHz/5600MHz
+e/124/44/cE/Which of these are real programming languages?/Java/BASIC/QuickBit/C
+h/1234/40/cF/Which of these are real programming languages?/Holy C/TypeScript/Fortran/Chef
+e/124/44/cCVW/Which of these are terms used in networking?/Ping/RAM/VPN/Latency
+h/123/44/cVLT/Which of these are real keyboard types?/Mechanical/Optical/Membrane/Magnetic
+e/13/40/cWJT/Which of these are real computer componets?/CPU/Compiler/GPU/Ethernet
+h/123/44/cMII/Which of these are real CPU instruction sets?/Itanium/x86-64/Arm64/x32-24
+e/23/44/cAZB/Which of these are peripherals?/CPU/Webcam/Mouse/Network Interface Card
+h/234/40/cXQQ/Which of these are real CPU socket types?/Pin Line Array/Ball Grid Array/Land Grid Array/Pin Grid Array
+e/14/44/cEKA/Which of these specs are for a CPU?/Clock Speed/Read Speed/Storage/Core Count
+h/3/40/cVXW/Which of these are valid IPv4 addresses?/5.65.303.233/04-7C-16-E9-7D-06/192.168.0.35/245.2.137
+e/13/40/cVQF/Which of these are formats that are stored on a disc?/Blu-ray/FAT32/DVD/NTFS
+h/123/40/cBXT/Which of these are formats that are stored on a disc?/Video CD/LaserDisc/HD-DVD/exFAT
+e/13/40/cMPF/Which of these are real laws relating to computing?/General Data Protection Regulation /Computer Misuse Act 1991/Data Protection Act 2018/Computer Hacking Act 2011
+h/24/40/cPSD/Which of these file types involve lossless compression?/.jpg/.png/.mp3/.flac
+e/124/40/cVMT/Which of these file types involve lossy compression?/.jpeg/.ogg/.png/.mp3
+h/234/40/cXJA/Which of these are low level programming languages?/Lua/C/Assembly/Rust

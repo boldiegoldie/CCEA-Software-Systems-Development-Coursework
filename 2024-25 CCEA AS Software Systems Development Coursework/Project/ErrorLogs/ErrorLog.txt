@@ -1,0 +1,70 @@
+29/11/2024 11:26:42 : VALIDATION ERROR #06: No username has been entered.
+29/11/2024 11:28:38 : VALIDATION ERROR #06: No username has been entered.
+29/11/2024 11:28:44 : VALIDATION ERROR #06: No username has been entered.
+29/11/2024 11:32:54 : VALIDATION ERROR #06: No username has been entered.
+29/11/2024 14:07:44 : VALIDATION ERROR #06: No username has been entered.
+29/11/2024 14:08:14 : VALIDATION ERROR #06: No username has been entered.
+29/11/2024 14:15:27 : VALIDATION ERROR #06: No username has been entered.
+29/11/2024 14:47:17 : VALIDATION ERROR #06: No username has been entered.
+29/11/2024 14:47:30 : VALIDATION ERROR #06: No username has been entered.
+18/12/2024 09:55:25 : VALIDATION ERROR #01: Your password must contain at least one number.
+18/12/2024 09:56:40 : VALIDATION ERROR #08: Username must be longer than 4 characters
+18/12/2024 09:56:40 : VALIDATION ERROR #01: Your password must contain at least one number.
+18/12/2024 09:56:47 : VALIDATION ERROR #08: Username must be longer than 4 characters
+18/12/2024 09:56:47 : VALIDATION ERROR #02: Your password must be in mixed case.
+18/12/2024 09:56:51 : VALIDATION ERROR #08: Username must be longer than 4 characters
+18/12/2024 09:56:52 : VALIDATION ERROR #08: Username must be longer than 4 characters
+18/12/2024 09:56:52 : VALIDATION ERROR #08: Username must be longer than 4 characters
+18/12/2024 09:56:53 : VALIDATION ERROR #08: Username must be longer than 4 characters
+18/12/2024 10:05:34 : VALIDATION ERROR #07: Username cannot contain a symbol.
+18/12/2024 10:17:55 : VALIDATION ERROR #07: Username cannot contain a symbol.
+18/12/2024 10:17:55 : VALIDATION ERROR #05: No password has been entered.
+18/12/2024 10:18:53 : VALIDATION ERROR #05: No password has been entered.
+03/01/2025 11:45:06 : VALIDATION ERROR #10: Username already taken.
+03/01/2025 11:49:12 : VALIDATION ERROR #10: Username already taken.
+05/01/2025 23:28:14 : VALIDATION ERROR #06: No username has been entered.
+05/01/2025 23:28:14 : VALIDATION ERROR #05: No password has been entered.
+10/01/2025 09:57:09 : VALIDATION ERROR #09: Password not confirmed.
+16/01/2025 14:54:41 : VALIDATION ERROR #09: Password not confirmed.
+16/01/2025 14:54:47 : VALIDATION ERROR #10: Username already taken.
+16/01/2025 14:55:01 : VALIDATION ERROR #07: Username cannot contain a symbol.
+17/01/2025 12:33:28 : VALIDATION ERROR #09: Password not confirmed.
+17/01/2025 13:23:13 : VALIDATION ERROR #02: Your password must be in mixed case.
+17/01/2025 13:23:13 : VALIDATION ERROR #09: Password not confirmed.
+22/01/2025 11:38:42 : VALIDATION ERROR #01: Your password must contain at least one number.
+22/01/2025 11:38:42 : VALIDATION ERROR #9: Password not confirmed.
+22/01/2025 11:39:03 : VALIDATION ERROR #09: Password not confirmed.
+22/01/2025 12:04:11 : VALIDATION ERROR #9: Password not confirmed.
+22/01/2025 23:28:34 : VALIDATION ERROR #06: No username has been entered.
+22/01/2025 23:28:35 : VALIDATION ERROR #05: No password has been entered.
+22/01/2025 23:28:47 : VALIDATION ERROR #05: No password has been entered.
+22/01/2025 23:28:59 : VALIDATION ERROR #10: Username already taken.
+22/01/2025 23:35:56 : VALIDATION ERROR #05: No password has been entered.
+23/01/2025 00:36:45 : VALIDATION ERROR #07: Username cannot contain a symbol.
+23/01/2025 00:36:45 : VALIDATION ERROR #05: No password has been entered.
+23/01/2025 00:43:15 : VALIDATION ERROR #08: Username must be longer than 4 characters
+23/01/2025 00:43:15 : VALIDATION ERROR #9: Password not confirmed.
+23/01/2025 00:43:29 : VALIDATION ERROR #06: No username has been entered.
+23/01/2025 00:43:29 : VALIDATION ERROR #05: No password has been entered.
+23/01/2025 00:43:31 : VALIDATION ERROR #06: No username has been entered.
+23/01/2025 00:43:31 : VALIDATION ERROR #01: Your password must contain at least one number.
+23/01/2025 00:43:38 : VALIDATION ERROR #06: No username has been entered.
+23/01/2025 00:43:38 : VALIDATION ERROR #9: Password not confirmed.
+23/01/2025 00:53:46 : VALIDATION ERROR #9: Password not confirmed.
+23/01/2025 01:15:23 : VALIDATION ERROR #03: Your password must contain at least one special character.
+23/01/2025 01:15:23 : VALIDATION ERROR #9: Password not confirmed.
+23/01/2025 01:15:54 : VALIDATION ERROR #03: Your password must contain at least one special character.
+23/01/2025 01:15:54 : VALIDATION ERROR #9: Password not confirmed.
+23/01/2025 01:18:13 : VALIDATION ERROR #04: Your password must be longer than 3 characters.
+23/01/2025 09:07:18 : VALIDATION ERROR #01: Your password must contain at least one number.
+23/01/2025 09:09:29 : VALIDATION ERROR #02: Your password must be in mixed case.
+23/01/2025 09:11:11 : VALIDATION ERROR #03: Your password must contain at least one special character.
+23/01/2025 09:29:11 : VALIDATION ERROR #09: Password not confirmed.
+04/02/2025 03:16:22 : VALIDATION ERROR #07: Username cannot contain a symbol.
+04/02/2025 03:16:22 : VALIDATION ERROR #05: No password has been entered.
+27/05/2025 14:16:57 : VALIDATION ERROR #05: No password has been entered.
+20/07/2025 12:17:42 : VALIDATION ERROR #02: Your password must be in mixed case.
+20/09/2025 17:13:31 : VALIDATION ERROR #03: Your password must contain at least one special character.
+20/09/2025 17:13:42 : VALIDATION ERROR #10: Username already taken.
+30/10/2025 16:01:32 : VALIDATION ERROR #09: Password not confirmed.
+30/10/2025 16:01:40 : VALIDATION ERROR #10: Username already taken.

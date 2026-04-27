@@ -1,0 +1,627 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B521C6F4-B082-49CC-8E5A-6D5749AE1072}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>_2024_25_CCEA_AS_Software_Systems_Development_Coursework</RootNamespace>
+    <AssemblyName>2024-25 CCEA AS Software Systems Development Coursework</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Checkbox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Checkbox.designer.cs">
+      <DependentUpon>Checkbox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Common_Variables.cs" />
+    <Compile Include="CreateAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CreateAccount.Designer.cs">
+      <DependentUpon>CreateAccount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DifficultySelect.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DifficultySelect.Designer.cs">
+      <DependentUpon>DifficultySelect.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DragAndDrop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DragAndDrop.Designer.cs">
+      <DependentUpon>DragAndDrop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EndScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EndScreen.Designer.cs">
+      <DependentUpon>EndScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FillInTheBlank.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FillInTheBlank.Designer.cs">
+      <DependentUpon>FillInTheBlank.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HomeScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HomeScreen.Designer.cs">
+      <DependentUpon>HomeScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Leaderboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Leaderboard.Designer.cs">
+      <DependentUpon>Leaderboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LeaderboardData.cs" />
+    <Compile Include="Lobby.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lobby.Designer.cs">
+      <DependentUpon>Lobby.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MultiChoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MultiChoice.Designer.cs">
+      <DependentUpon>MultiChoice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Placeholder_Screen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Placeholder_Screen.Designer.cs">
+      <DependentUpon>Placeholder_Screen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QuestionDesigner.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QuestionDesigner.Designer.cs">
+      <DependentUpon>QuestionDesigner.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Settings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Settings.Designer.cs">
+      <DependentUpon>Settings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TextViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TextViewer.Designer.cs">
+      <DependentUpon>TextViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TrueOrFalse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TrueOrFalse.Designer.cs">
+      <DependentUpon>TrueOrFalse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tutorial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tutorial.Designer.cs">
+      <DependentUpon>Tutorial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserData.cs" />
+    <Compile Include="WelcomeScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WelcomeScreen.Designer.cs">
+      <DependentUpon>WelcomeScreen.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Checkbox.resx">
+      <DependentUpon>Checkbox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CreateAccount.resx">
+      <DependentUpon>CreateAccount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DifficultySelect.resx">
+      <DependentUpon>DifficultySelect.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DragAndDrop.resx">
+      <DependentUpon>DragAndDrop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EndScreen.resx">
+      <DependentUpon>EndScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FillInTheBlank.resx">
+      <DependentUpon>FillInTheBlank.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HomeScreen.resx">
+      <DependentUpon>HomeScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Leaderboard.resx">
+      <DependentUpon>Leaderboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lobby.resx">
+      <DependentUpon>Lobby.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MultiChoice.resx">
+      <DependentUpon>MultiChoice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Placeholder_Screen.resx">
+      <DependentUpon>Placeholder_Screen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QuestionDesigner.resx">
+      <DependentUpon>QuestionDesigner.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Settings.resx">
+      <DependentUpon>Settings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TextViewer.resx">
+      <DependentUpon>TextViewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TrueOrFalse.resx">
+      <DependentUpon>TrueOrFalse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tutorial.resx">
+      <DependentUpon>Tutorial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WelcomeScreen.resx">
+      <DependentUpon>WelcomeScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\Csharp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\CustomEnd.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\Designer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\DesignerBlank.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\DesignerCheck.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\DesignerMulti.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\DesignerTorf.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\DisplayPort.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\DragDrop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\DVI.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\DVIPort.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\Emacs.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\EndeavourOS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\EPYC.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\EthernetPort.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\fedora.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\FillIInTheBlank.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\Go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\GoFoward.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\GoldTrophy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\GoldTrophyBlack.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\GTX1050TI.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\GTX1080TI.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\HDMISocket.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\HolyC.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\IntelliJ.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\Java.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\Kotlin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\Logout64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\MicroB.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\miniSD.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\mint.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\Motherboard.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\MultiChoice.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\Muted64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\Muted64Red.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\nano.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\Neptune.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\NIC.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\Notepad++.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\NVMe.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\PassHide64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\PassShow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\PATAPort.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\PCI.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\PCIe.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\Pentium4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\placeholder.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\PS2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\PSU.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\Python.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\RAM.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\RTX2080TI.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\RTX3090TI.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\Rust.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\RX580.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\RX5700XT.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\RX6650XT.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\RX6800.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\RX7900XTX.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\Ryzen.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\Ryzen5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\SATA.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\SATACard.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\SCARTPort.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\SilverTrophy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\SilverTrophyBlack.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\SoundCard.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\SpecialEvent.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\SSD.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\TextBlock1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\TextBlock2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\TextBlock3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\TextBlock4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\Transparent.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\TrueOrFalse.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\Tutorial64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\Ubuntu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\UI-Purple.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\UnderConstuction.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\UnMuted64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\USB-A.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\USBAPort.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\USB-B.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\USB-C.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\VGAPort.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\vim.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\VisualStudio.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\vscode.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\Windows1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\Windows3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\Windows10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\Windows98.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\WindowsME.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\WindowsNT3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\WindowsXP.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\Xeon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\4690.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\8086.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\8700K.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\12400F.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\AndroidStudio.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\BackButton64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\Bluetooth.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\CaptureCard.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\Case.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\Check64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\Checkbox.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\Cooler.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\CopperTrophy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\CopperTrophyBlack.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\images\Cplusplus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\icons\icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\icons\login_icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\icons\png-clipart-smiling-yellow-emoticon-wearing-black-sunglasses-doing-thumbs-up-emoji-internet-meme-emoticon-doge-smiley-miscellaneous-heart-thumbnail.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\audio\click.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\audio\ding.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\audio\wrong.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\audio\minecraft.wav" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

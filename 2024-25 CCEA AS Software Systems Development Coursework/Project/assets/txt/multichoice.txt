@@ -1,0 +1,29 @@
+e/Solid State Drive/44/mA/What does SSD stand for?/Super Smelly Drive/Solid State Drive/Solid Software Drive/Super Speed Drive
+h/Merge Sort/38/mC/Following BigO notation, which one of these sorting algorithms is most efficient?/Miracle Sort/Bogo Sort/Merge Sort/Bubble Sort
+e/Central Processing Unit/44/mB/What is the name of the part of a Computer that executes instructions?/Computer Processing Unit/Code Processor/Computer/Central Processing Unit
+h/14th of June 1951/40/mD/When did the first commercially avaliable computer, the UNIVAC 1, release?/14th of June 1951/26th of March 1949/8th of May 1951/11th of January 1964
+e/Windows/44/mE/What desktop operating system is the most used world-wide?/Linux/macOS/Windows/iOS
+h/Android/44/mF/What operating system is the most used world-wide?/Windows/Android/macOS/iOS
+e/A global network of computers/44/mG/What is the Internet?/A global network of computers/A place to buy fishing nets/A local network of computers/A programming language
+h/Intergrated Development Environment/44/mH/What does IDE stand for?/Internal Development Environment/Intergrated Development Environment/Integral Download Environment/Important Desktop Environment
+e/Icon/42/mI/What is the symbol that represents a program called?/Picture/Image/Icon/Pictogram
+h/Windows NT Kernal/44/mJ/What is the name of the Windows Kernal?/Windows Kernal/MS-DOS/Windows NT Kernal/Windows Operating Environment
+e/Serial/44/mK/What does the S in USB stand for?/Serial/Speed/Storage/Special
+h/N.2/44/mL/Which one of these is not a real storage standard?/NVMe/SATA/N.2/PATA
+e/Tim Berners-Lee/44/mM/Who invented the World Wide Web?/Bill Gates/John Internet III/Webster Page/Tim Berners-Lee
+h/MS-DOS 7/42/mN/What version of MS-DOS was Windows 95 based on?/MS-DOS 6.5/MS-DOS 7/MS-DOS 5/MS-DOS 3.1
+e/Windows 11/38/mO/As of September 2024, what is the newest consumer version of Windows?/Windows 10/Windows 2024/Windows 11/Windows 8.1
+h/Windows Server 2025/40/mP/As of September 2024, what is the newest version of Windows?/Windows Server 2025/Windows 11/Windows Server 2022/Windows 10
+e/Virus/44/mQ/Which of these would be considered malware?/Operating System/Virus/Kernal/Disk Imager
+h/SMTP/44/mR/What protocol is used for sending emails?/FTP/SSH/HTTPS/SMTP
+e/.png/44/mS/Which of these file extensions is used for images?/.flac/.exe/.png/.deb
+h/To filter network traffic/44/mT/What is the primary purpose of a firewall?/Scan your system for viruses/Block all network traffic/Back up data/To filter network traffic
+e/USB 4/44/mU/What is the newest version of the USB standard called?/USB 4/USB 3.1/USB 3.2 Gen2x2/USB 5
+h/6.1/38/mV/As of September 2024, what is the newest version of the Linux Kernal?/7.0/3.4/6/6.1
+e/Wi-Fi/37/mW/What is the name for the protocol that allows a device to access the internet wirelessly?/Wireless Ethernet/Wi-Fi/Moblie Conecction/Bluetooth
+h/Windows Millenium Edition/44/mX/What was the last version of Windows to be based on MS-DOS?/Windows 2000/Windows 95/Windows Millenium Edition/Windows 98
+e/Mouse/38/mY/Other than a keyboard, what is the name of the main way you interact with a computer?/Cursor/Pointer/Mouse/Cat
+h/macOS Sequoia/44/mZ/As of September 2024, what is the newest version of macOS?/macOS Big Sur/macOS Sequoia/macOS Monterey/macOS High Sierra
+e/Random Access Memory/44/mFHD/What does RAM stand for?/Random Access Memory/Real Address Memory/Random Address Memory/Really Amazing Mice
+h/Fluid State/40/mUNW/What form of storage is not used for computers?/Solid State/Optical/Tape/Fluid State
+e/A chip that processes digital images/44/mIYH/What is a GPU?/A chip that processes digital images/A chip that handles networking/A device that displays digital images/A storage device

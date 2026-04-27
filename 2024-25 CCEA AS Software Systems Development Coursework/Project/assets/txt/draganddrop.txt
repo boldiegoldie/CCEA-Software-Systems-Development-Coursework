@@ -1,0 +1,20 @@
+e/40/dA/Match these logos to their programming languages./Cplusplus/150/161/1365/12/Csharp/150/158/1365/179/Python/150/161/1365/343/Java/150/200/1365/499/C++/C#/Python/Java
+h/40/dB/Match these logos to their programming languages./Go/215/185/1330/12/Rust/150/150/1364/203/Kotlin/150/150/1364/365/HolyC/175/189/1350/521/Go/Rust/Kotlin/Holy C
+e/44/dC/Match these logos to their standard./Bluetooth/150/185/1365/12/SATA/150/134/1364/223/PCIe/272/118/1300/372/DisplayPort/169/144/1364/521/Bluetooth/SATA/PCIe/DisplayPort
+h/44/dD/Match these logos to their standard./DVI/224/153/1330/60/PCI/256/99/1316/266/miniSD/187/100/1350/412/NVMe/295/82/1289/551/DVI/PCI/miniSD/NVMe
+e/44/dE/Match these cables to their USB types./USB_A/188/139/1337/12/USB_B/296/153/1288/162/USB_C/241/161/1316/330/MicroB/220/192/1327/507/USB A/USB B/USB C/USB Micro B
+h/44/dF/What are these components?/Case/158/208/1359/12/PSU/245/146/1321/221/SSD/298/82/1286/373/Motherboard/224/254/1330/461/Case/Power Supply/SSD/Motherboard
+e/44/dG/What are these components?/12400F/196/225/1341/9/RX6800/236/114/1321/240/RAM/250/87/1307/363/Cooler/249/243/1321/454/CPU/GPU/RAM/CPU Cooler
+h/44/dH/What CPU series are these?/12400F/156/185/1341/9/Ryzen/150/150/1366/200/4690/163/163/1359/356/Ryzen5/185/185/1350/525/12th Gen Intel/Ryzen 9000/4th Gen Intel/Ryzen 5000
+e/44/dI/What CPU brands are these?/12400F/156/185/1341/9/Ryzen/150/150/1366/200/EPYC/205/147/1330/356/Xeon/136/186/1380/513/Intel Core/AMD Ryzen/AMD EPYC/Intel Xeon
+h/44/dJ/What are the logos for these text editors?/Notepad/212/153/1327/12/vim/170/170/1350/171/Emacs/170/170/1350/347/nano/170/170/1350/529/Notepad++/Vim/Emacs/Nano
+e/44/dK/What IDEs are these logos for?/IntelliJ/170/170/1350/9/VisualStudio/170/170/1350/185/AndroidStudio/170/170/1350/361/vscode/170/170/1350/537/IntelliJ/Visual Studio/Android Studio/VS Code
+h/40/dL/What version of Windows are these logos for?/WindowsNT3/173/142/1351/12/WindowsME/189/179/1351/162/Windows3/160/199/1364/347/Neptune/90/147/1401/552/Windows NT 3/Windows ME/Windows 3.0/Neptune
+e/40/dM/What version of Windows are these logos for?/Windows10/170/171/1350/9/Windows98/185/160/1350/186/Windows1/169/116/1351/364/WindowsXP/213/188/1331/497/Windows 10/Windows 98/Windows 1.0/Windows XP
+h/40/dN/What Linux distros are these logos for?/EndeavourOS/173/142/1351/9/Ubuntu/117/184/1386/157/mint/180/180/1351/347/fedora/180/180/1351/533/EndeavourOS/Ubuntu/Linux Mint/Fedora Linux
+e/44/dO/What plug types are these?/USBAPort/178/140/1351/12/EthernetPort/180/132/1351/183/VGAPort/186/139/1351/349/HDMISocket/177/106/1360/537/USB A/Ethernet/VGA/HDMI
+h/44/dP/What plug types are these?/PATAPort/212/128/1332/30/PS2/205/98/1332/207/DVIPort/200/150/1337/346/SCARTPort/234/98/1321/553/PATA/PS2/DVI/SCART
+e/44/dQ/What Intel CPUs are these?/8086/253/155/1309/12/4690/160/160/1366/173/Pentium4/200/198/1345/339/8700K/160/157/1366/543/Intel 8086/Core i5-4690/Pentium 4/Core i7-8700K
+h/44/dR/What AMD GPUs are these?/RX6650XT/240/155/1319/12/RX7900XTX/240/111/1319/204/RX5700XT/260/126/1319/370/RX580/240/142/1319/535/RX 6650XT/RX 7900XTX/RX 5700XT/RX 580
+e/44/dS/What nVidia GPUs are these?/GTX1050TI/240/161/1319/12/RTX2080TI/240/111/1319/214/GTX1080TI/240/107/1319/377/RTX3090TI/240/123/1319/533/GTX 1050Ti/RTX 2080Ti/GTX 1080Ti/RTX 3090Ti
+h/44/dT/What expansion cards are these?/SoundCard/231/212/1319/9/CaptureCard/254/166/1305/227/SATACard/118/171/1375/399/NIC/282/159/1290/576/Sound Card/Capture Card/SATA Card/Network Card

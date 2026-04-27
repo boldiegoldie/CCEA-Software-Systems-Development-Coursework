@@ -1,0 +1,20 @@
+e/basicinputoutputsystem/44/fFIN/What does BIOS stand for?
+h/airgapping,airgap/40/fJJG/Removing a machine from a network for security purposes is called [_____].
+e/hdmi,displayport,dvi,power/42/fDGM/Most modern GPU's have at least one [_____] port.
+h/sudo,su/38/fPAP/To run a command in Linux as the Super User, you use the prefix [_____].
+e/serial/44/fKIU/In [_____] data transfer, one bit is sent at a time.
+h/compilation,compilationprocess,compiler,building/30/fMJQ/The process of converting a high-level programming language into machine code is known as [_____].
+e/parallel/44/fKDF/In [_____] data transfer, multiple bits are sent at the same time.
+h/motherboard,systemboard,mainboard/34/fHZI/The [_____] is the main circuit board of a computer, connecting all the components together.
+e/visualstudio,visualstudiocode,vscode,notepad/44/fPKO/What is Microsoft's code editor called?
+h/apt,rpm,pacman/44/fHOX/[_____] is a Linux package manager.
+e/mac/40/fKVC/A [______] address is used to identify network cards on a network.
+h/root,admin,administrator/36/fRVE/The [_____] account is an account that has unrestricted access to a computers functions.
+e/secondary,2nd,volitile/44/fAAS/RAM is considered to be [_____] storage.
+h/portfowarding,forwarding/40/fFYF/Pointing one network port to another is reffered to as [_____].
+e/primary,1st,volitile/44/fCWS/Cache is referred to as [_____] storage.
+h/ls/38/fMZM/To list all files and folders in a directory in a Linux terminal you type [_____].
+e/dir/38/fVQE/To list all files and folders in a directory in a Windows terminal you type [_____].
+h/unifiedextensiblefirmwareinterface/44/fESY/What does UEFI stand for?
+e/graphical,gui,commandline,menu/44/fQQU/Name a type of user interface.
+h/atx,matx,itx,eatx/44/fDZV/Name a common motherboard size standard.

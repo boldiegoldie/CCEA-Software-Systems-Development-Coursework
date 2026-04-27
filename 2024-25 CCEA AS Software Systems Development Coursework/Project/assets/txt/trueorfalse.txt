@@ -1,0 +1,28 @@
+e/true/42/tA/An error in a piece of code is called a bug.
+h/true/40/tB/A x86-64 processor only has access to 1MB of RAM at boot.
+e/false/42/tC/DVD-R discs can be burned multiple times.
+h/false/42/tD/The Apple Macintosh was the first computer with a GUI.
+e/true/38/tE/There are 24 pins in a standard ATX motherboard power socket.
+h/false/40/tF/This quiz was written in C++.
+e/false/40/tG/This is an IPv6 address: 85.31.139.141
+h/true/38/tH/The PS2 port was named after the IBM PS2 line of computers.
+e/false/42/tI/Most modern processors have a single core.
+h/true/38/tJ/As of September 2024, JavaScript is the most used programming language.
+e/false/38/tK/Desktop Computers are usually portable, battery powered and have in-built keyboards.
+h/true/38/tL/SSH is the protocol used to access a computers terminal remotely.
+e/false/40/tM/USB A ports are round.
+h/true/40/tN/USB 2.0 has a maximum transfer speed of 480Mb per second.
+e/true/42/tO/Optical media is slower than Flash Storage.
+h/true/44/tP/There is a programming language called D.
+e/true/42/tQ/Google Chrome is the most used internet browser.
+h/false/42/tR/Windows 7's default theme was called Windows Luna.
+e/false/42/tS/The first 64-bit processor was made by Intel.
+h/false/42/tT/The first 64-bit CPU was the AMD Athlon 64.
+e/false/42/tU/Consumer CPUs are 128 bit.
+h/true/42/tV/C++ does not have automatic memory management.
+e/false/42/tW/Python is a low-level programming language.
+h/true/40/tCKQ/Lua is not a zero indexed programming language.
+e/false/44/tGOJ/You can run Android on a desktop computer natively.
+h/true/44/tPVI/You can run Android on a desktop computer.
+e/false/40/tDNF/Keyboards are plugged in using SATA cables.
+h/true/44/tMLW/3.5mm headphone jacks carry an analogue signal.

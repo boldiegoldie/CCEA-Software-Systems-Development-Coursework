@@ -1,0 +1,27 @@
+C:\Users\boldiegoldie\Desktop\UHH\2024-25 CCEA AS Software Systems Development Coursework\obj\Debug\2024-25 CCEA AS Software Systems Development Coursework.csproj.AssemblyReference.cache
+C:\Users\boldiegoldie\Desktop\UHH\2024-25 CCEA AS Software Systems Development Coursework\obj\Debug\_2024_25_CCEA_AS_Software_Systems_Development_Coursework.Checkbox.resources
+C:\Users\boldiegoldie\Desktop\UHH\2024-25 CCEA AS Software Systems Development Coursework\obj\Debug\_2024_25_CCEA_AS_Software_Systems_Development_Coursework.CreateAccount.resources
+C:\Users\boldiegoldie\Desktop\UHH\2024-25 CCEA AS Software Systems Development Coursework\obj\Debug\_2024_25_CCEA_AS_Software_Systems_Development_Coursework.DifficultySelect.resources
+C:\Users\boldiegoldie\Desktop\UHH\2024-25 CCEA AS Software Systems Development Coursework\obj\Debug\_2024_25_CCEA_AS_Software_Systems_Development_Coursework.DragAndDrop.resources
+C:\Users\boldiegoldie\Desktop\UHH\2024-25 CCEA AS Software Systems Development Coursework\obj\Debug\_2024_25_CCEA_AS_Software_Systems_Development_Coursework.EndScreen.resources
+C:\Users\boldiegoldie\Desktop\UHH\2024-25 CCEA AS Software Systems Development Coursework\obj\Debug\_2024_25_CCEA_AS_Software_Systems_Development_Coursework.FillInTheBlank.resources
+C:\Users\boldiegoldie\Desktop\UHH\2024-25 CCEA AS Software Systems Development Coursework\obj\Debug\_2024_25_CCEA_AS_Software_Systems_Development_Coursework.HomeScreen.resources
+C:\Users\boldiegoldie\Desktop\UHH\2024-25 CCEA AS Software Systems Development Coursework\obj\Debug\_2024_25_CCEA_AS_Software_Systems_Development_Coursework.Leaderboard.resources
+C:\Users\boldiegoldie\Desktop\UHH\2024-25 CCEA AS Software Systems Development Coursework\obj\Debug\_2024_25_CCEA_AS_Software_Systems_Development_Coursework.Properties.Resources.resources
+C:\Users\boldiegoldie\Desktop\UHH\2024-25 CCEA AS Software Systems Development Coursework\obj\Debug\2024-25 CCEA AS Software Systems Development Coursework.csproj.GenerateResource.cache
+C:\Users\boldiegoldie\Desktop\UHH\2024-25 CCEA AS Software Systems Development Coursework\obj\Debug\2024-25 CCEA AS Software Systems Development Coursework.csproj.CoreCompileInputs.cache
+C:\Users\boldiegoldie\Desktop\UHH\2024-25 CCEA AS Software Systems Development Coursework\bin\Debug\2024-25 CCEA AS Software Systems Development Coursework.exe.config
+C:\Users\boldiegoldie\Desktop\UHH\2024-25 CCEA AS Software Systems Development Coursework\bin\Debug\2024-25 CCEA AS Software Systems Development Coursework.exe
+C:\Users\boldiegoldie\Desktop\UHH\2024-25 CCEA AS Software Systems Development Coursework\bin\Debug\2024-25 CCEA AS Software Systems Development Coursework.pdb
+C:\Users\boldiegoldie\Desktop\UHH\2024-25 CCEA AS Software Systems Development Coursework\obj\Debug\_2024_25_CCEA_AS_Software_Systems_Development_Coursework.Lobby.resources
+C:\Users\boldiegoldie\Desktop\UHH\2024-25 CCEA AS Software Systems Development Coursework\obj\Debug\_2024_25_CCEA_AS_Software_Systems_Development_Coursework.Login.resources
+C:\Users\boldiegoldie\Desktop\UHH\2024-25 CCEA AS Software Systems Development Coursework\obj\Debug\_2024_25_CCEA_AS_Software_Systems_Development_Coursework.MultiChoice.resources
+C:\Users\boldiegoldie\Desktop\UHH\2024-25 CCEA AS Software Systems Development Coursework\obj\Debug\_2024_25_CCEA_AS_Software_Systems_Development_Coursework.Placeholder_Screen.resources
+C:\Users\boldiegoldie\Desktop\UHH\2024-25 CCEA AS Software Systems Development Coursework\obj\Debug\_2024_25_CCEA_AS_Software_Systems_Development_Coursework.QuestionDesigner.resources
+C:\Users\boldiegoldie\Desktop\UHH\2024-25 CCEA AS Software Systems Development Coursework\obj\Debug\_2024_25_CCEA_AS_Software_Systems_Development_Coursework.Settings.resources
+C:\Users\boldiegoldie\Desktop\UHH\2024-25 CCEA AS Software Systems Development Coursework\obj\Debug\_2024_25_CCEA_AS_Software_Systems_Development_Coursework.TextViewer.resources
+C:\Users\boldiegoldie\Desktop\UHH\2024-25 CCEA AS Software Systems Development Coursework\obj\Debug\_2024_25_CCEA_AS_Software_Systems_Development_Coursework.TrueOrFalse.resources
+C:\Users\boldiegoldie\Desktop\UHH\2024-25 CCEA AS Software Systems Development Coursework\obj\Debug\_2024_25_CCEA_AS_Software_Systems_Development_Coursework.Tutorial.resources
+C:\Users\boldiegoldie\Desktop\UHH\2024-25 CCEA AS Software Systems Development Coursework\obj\Debug\_2024_25_CCEA_AS_Software_Systems_Development_Coursework.WelcomeScreen.resources
+C:\Users\boldiegoldie\Desktop\UHH\2024-25 CCEA AS Software Systems Development Coursework\obj\Debug\2024-25 CCEA AS Software Systems Development Coursework.exe
+C:\Users\boldiegoldie\Desktop\UHH\2024-25 CCEA AS Software Systems Development Coursework\obj\Debug\2024-25 CCEA AS Software Systems Development Coursework.pdb
