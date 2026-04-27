@@ -1,0 +1,419 @@
+14/10/2025 13:54:23 : Column name or number of supplied values does not match table definition.
+29/10/2025 19:23:29 : The conversion of the varchar value '07394464152' overflowed an int column.
+The statement has been terminated.
+29/10/2025 19:26:17 : The conversion of the varchar value '07394464152' overflowed an int column.
+The statement has been terminated.
+30/10/2025 21:29:13 : Conversion failed when converting date and/or time from character string.
+30/10/2025 21:32:42 : Conversion failed when converting date and/or time from character string.
+30/10/2025 21:35:21 : The INSERT statement conflicted with the FOREIGN KEY constraint "FK__booking__staffID__07C12930". The conflict occurred in database "C:\USERS\BOLDIEGOLDIE\ONEDRIVE - C2K\_SCHOOL\COMPUTING\YR 14\PROJECT\YR-14-NATHANMCGEE-CA\DATABASE.MDF", table "dbo.staff", column 'staffID'.
+The statement has been terminated.
+30/10/2025 21:37:24 : The INSERT statement conflicted with the FOREIGN KEY constraint "FK__booking__staffID__07C12930". The conflict occurred in database "C:\USERS\BOLDIEGOLDIE\ONEDRIVE - C2K\_SCHOOL\COMPUTING\YR 14\PROJECT\YR-14-NATHANMCGEE-CA\DATABASE.MDF", table "dbo.staff", column 'staffID'.
+The statement has been terminated.
+04/11/2025 14:45:38 : Invalid column name 'bookingStartDate'.
+Invalid column name 'bookingEndDate'.
+04/11/2025 14:55:38 : Invalid column name 'bookingStartDate'.
+Invalid column name 'bookingEndDate'.
+04/11/2025 14:55:40 : An unknown error occured.
+04/11/2025 14:55:41 : Invalid column name 'bookingStartDate'.
+Invalid column name 'bookingEndDate'.
+04/11/2025 14:55:41 : An unknown error occured.
+05/11/2025 12:10:24 : An unknown error occured.
+05/11/2025 12:10:25 : An unknown error occured.
+05/11/2025 12:10:30 : An unknown error occured.
+05/11/2025 12:10:31 : An unknown error occured.
+05/11/2025 12:10:31 : An unknown error occured.
+05/11/2025 12:10:32 : An unknown error occured.
+05/11/2025 12:13:58 : bookingID
+05/11/2025 12:13:58 : The connection was not closed. The connection's current state is open.
+05/11/2025 12:13:58 : The connection was not closed. The connection's current state is open.
+05/11/2025 12:13:59 : bookingID
+05/11/2025 12:14:00 : The connection was not closed. The connection's current state is open.
+05/11/2025 12:14:00 : The connection was not closed. The connection's current state is open.
+05/11/2025 12:14:11 : bookingID
+05/11/2025 12:14:12 : The connection was not closed. The connection's current state is open.
+05/11/2025 12:14:12 : The connection was not closed. The connection's current state is open.
+05/11/2025 12:17:09 : bookingID
+05/11/2025 12:17:09 : bookingID
+wow thanks that message is so useful, i asked bill gates himself "why is my exception message just the word bookingID"
+and he told me all the secrets of the world and the true meaning of life, i have been enlightened and can now tell you,
+Sql & winforms are both the single most diabolicle torture meathods that will ever be made
+05/11/2025 20:03:28 : An unknown error occured
+05/11/2025 20:03:34 : An unknown error occured
+05/11/2025 20:08:01 : Invalid attempt to read when no data is present.
+05/11/2025 20:14:03 : Invalid attempt to read when no data is present.
+07/11/2025 20:25:06 : Invalid attempt to read when no data is present.
+07/11/2025 20:25:10 : Invalid attempt to read when no data is present.
+07/11/2025 20:27:40 : Invalid attempt to read when no data is present.
+10/11/2025 09:05:21 : Invalid column name 'bookingpID'.
+10/11/2025 09:30:32 : maintenanceID
+17/11/2025 22:12:05 : Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+17/11/2025 22:13:02 : Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+17/11/2025 22:13:04 : Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+17/11/2025 22:13:07 : Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+17/11/2025 22:15:01 : Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+17/11/2025 22:16:49 : ExecuteReader requires an open and available Connection. The connection's current state is closed.
+17/11/2025 22:18:31 : ExecuteReader requires an open and available Connection. The connection's current state is closed.
+17/11/2025 22:19:17 : There is already an open DataReader associated with this Command which must be closed first.
+18/11/2025 00:27:13 : Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+18/11/2025 00:27:16 : Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+18/11/2025 00:28:24 : Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+18/11/2025 00:39:49 : Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+18/11/2025 00:39:55 : Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+18/11/2025 00:40:11 : Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+18/11/2025 00:40:27 : Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+20/11/2025 15:22:58 : Conversion failed when converting the varchar value 'Username' to data type bit.
+23/11/2025 22:30:20 : An unknown error occured.
+23/11/2025 22:33:38 : Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+23/11/2025 22:42:22 : Incorrect syntax near the keyword 'WHERE'.
+23/11/2025 22:44:54 : Incorrect syntax near '17'.
+23/11/2025 22:53:08 : The INSERT statement conflicted with the FOREIGN KEY constraint "FK__booking__staffID__07C12930". The conflict occurred in database "C:\USERS\BOLDIEGOLDIE\ONEDRIVE - C2K\_SCHOOL\COMPUTING\YR 14\PROJECT\YR-14-NATHANMCGEE-CA\DATABASE.MDF", table "dbo.staff", column 'staffID'.
+The statement has been terminated.
+24/11/2025 09:24:29 : Conversion failed when converting date and/or time from character string.
+24/11/2025 09:25:17 : Conversion failed when converting date and/or time from character string.
+24/11/2025 09:25:18 : Conversion failed when converting date and/or time from character string.
+24/11/2025 09:25:20 : Conversion failed when converting date and/or time from character string.
+24/11/2025 09:25:44 : Incorrect syntax near 'Drive'.
+24/11/2025 09:28:36 : Incorrect syntax near 'Drive'.
+24/11/2025 09:30:03 : Incorrect syntax near '09'.
+24/11/2025 09:31:19 : Incorrect syntax near '09'.
+24/11/2025 09:31:47 : Incorrect syntax near '09'.
+24/11/2025 09:32:51 : Incorrect syntax near '093249'.
+24/11/2025 09:35:37 : Incorrect syntax near '09'.
+24/11/2025 09:37:48 : Incorrect syntax near '20251124 09:37:46'.
+24/11/2025 09:38:15 : Incorrect syntax near '20251124 09:38:10'.
+24/11/2025 09:38:36 : Column name or number of supplied values does not match table definition.
+17/12/2025 09:26:13 : Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+17/12/2025 09:28:01 : Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+21/12/2025 16:56:12 : Index was outside the bounds of the array.
+21/12/2025 16:56:48 : Index was outside the bounds of the array.
+21/12/2025 16:56:49 : Index was outside the bounds of the array.
+21/12/2025 16:56:52 : Index was outside the bounds of the array.
+21/12/2025 16:56:54 : Index was outside the bounds of the array.
+21/12/2025 19:00:50 : Conversion failed when converting the varchar value 'm' to data type int.
+21/12/2025 19:03:21 : Conversion failed when converting the varchar value 'm' to data type int.
+21/12/2025 19:09:31 : Index was outside the bounds of the array.
+21/12/2025 19:09:32 : Index was outside the bounds of the array.
+21/12/2025 19:10:19 : Index was outside the bounds of the array.
+21/12/2025 19:12:53 : Index was outside the bounds of the array.
+21/12/2025 19:13:22 : Index was outside the bounds of the array.
+21/12/2025 20:15:09 : price
+21/12/2025 20:47:01 : ExecuteReader requires an open and available Connection. The connection's current state is closed.
+21/12/2025 20:47:49 : ExecuteReader requires an open and available Connection. The connection's current state is closed.
+21/12/2025 20:59:12 : Invalid column name 'firstName'.
+Invalid column name 'secondName'.
+Invalid column name 'email'.
+Invalid column name 'mobileNumber'.
+28/12/2025 21:08:59 : An explicit value for the identity column in table 'booking' can only be specified when a column list is used and IDENTITY_INSERT is ON.
+28/12/2025 21:44:38 : ExecuteReader requires an open and available Connection. The connection's current state is closed.
+28/12/2025 21:46:16 : Invalid attempt to read when no data is present.
+28/12/2025 21:50:19 : The INSERT statement conflicted with the FOREIGN KEY constraint "FK__booking__payment__4D2A7347". The conflict occurred in database "C:\USERS\BOLDIEGOLDIE\ONEDRIVE - C2K\_SCHOOL\COMPUTING\YR 14\PROJECT\YR-14-NATHANMCGEE-CA\DATABASE.MDF", table "dbo.payment", column 'paymentID'.
+The statement has been terminated.
+28/12/2025 21:57:57 : The INSERT statement conflicted with the FOREIGN KEY constraint "FK__booking__payment__4D2A7347". The conflict occurred in database "C:\USERS\BOLDIEGOLDIE\ONEDRIVE - C2K\_SCHOOL\COMPUTING\YR 14\PROJECT\YR-14-NATHANMCGEE-CA\DATABASE.MDF", table "dbo.payment", column 'paymentID'.
+The statement has been terminated.
+28/12/2025 22:08:47 : Invalid attempt to read when no data is present.
+08/01/2026 09:41:10 : Invalid attempt to read when no data is present.
+08/01/2026 09:41:13 : Invalid attempt to read when no data is present.
+08/01/2026 09:41:16 : Invalid attempt to read when no data is present.
+08/01/2026 09:41:18 : Invalid attempt to read when no data is present.
+08/01/2026 09:41:21 : Invalid attempt to read when no data is present.
+08/01/2026 09:41:24 : Invalid attempt to read when no data is present.
+08/01/2026 09:43:12 : Invalid attempt to read when no data is present.
+14/01/2026 23:13:47 : Column name or number of supplied values does not match table definition.
+14/01/2026 23:17:31 : Invalid column name 'false'.
+14/01/2026 23:17:39 : Invalid column name 'false'.
+14/01/2026 23:17:41 : Invalid column name 'false'.
+14/01/2026 23:18:27 : Invalid column name 'False'.
+20/01/2026 20:36:10 : Column name or number of supplied values does not match table definition.
+20/01/2026 20:39:32 : Column name or number of supplied values does not match table definition.
+20/01/2026 20:53:39 : Error converting data type varchar to float.
+20/01/2026 21:25:55 : Error converting data type varchar to float.
+20/01/2026 21:25:58 : Error converting data type varchar to float.
+20/01/2026 21:25:59 : Error converting data type varchar to float.
+20/01/2026 21:26:00 : Error converting data type varchar to float.
+20/01/2026 21:28:20 : Error converting data type varchar to float.
+20/01/2026 21:28:21 : Error converting data type varchar to float.
+20/01/2026 21:28:22 : Error converting data type varchar to float.
+20/01/2026 21:28:23 : Error converting data type varchar to float.
+20/01/2026 21:32:45 : Error converting data type varchar to numeric.
+20/01/2026 21:32:47 : Error converting data type varchar to numeric.
+20/01/2026 21:32:47 : Error converting data type varchar to numeric.
+20/01/2026 21:32:48 : Error converting data type varchar to numeric.
+22/01/2026 15:23:34 : String or binary data would be truncated in table 'C:\USERS\HELLO\ONEDRIVE - C2K\_SCHOOL\COMPUTING\YR 14\PROJECT\YR-14-NATHANMCGEE-CA\DATABASE.MDF.dbo.customer', column 'firstName'. Truncated value: 'I have a veryyyyyy long name which has several spe'.
+The statement has been terminated.
+23/01/2026 09:31:18 : Incorrect syntax near the keyword 'WHERE'.
+23/01/2026 09:35:07 : Incorrect syntax near the keyword 'WHERE'.
+'Mr' is not a recognized SET option.
+23/01/2026 09:38:25 : Incorrect syntax near the keyword 'WHERE'.
+23/01/2026 09:47:58 : Incorrect syntax near the keyword 'WHERE'.
+23/01/2026 09:51:52 : Incorrect syntax near the keyword 'WHERE'.
+23/01/2026 09:51:56 : Incorrect syntax near the keyword 'WHERE'.
+23/01/2026 09:54:05 : Incorrect syntax near the keyword 'WHERE'.
+23/01/2026 10:55:39 : Incorrect syntax near the keyword 'WHERE'.
+23/01/2026 10:55:49 : Incorrect syntax near the keyword 'WHERE'.
+23/01/2026 10:57:07 : Incorrect syntax near the keyword 'WHERE'.
+23/01/2026 10:58:25 : Incorrect syntax near the keyword 'WHERE'.
+24/01/2026 20:17:54 : Index was outside the bounds of the array.
+24/01/2026 20:22:47 : Index was outside the bounds of the array.
+24/01/2026 20:23:21 : Index was outside the bounds of the array.
+24/01/2026 21:51:54 : Invalid attempt to read when no data is present.
+24/01/2026 22:02:10 : Conversion failed when converting the varchar value 'So like this one time mate i put a load of nutella and laxative in me engine oil' to data type int.
+24/01/2026 22:02:11 : Conversion failed when converting the varchar value 'So like this one time mate i put a load of nutella and laxative in me engine oil' to data type int.
+24/01/2026 22:02:13 : Conversion failed when converting the varchar value 'So like this one time mate i put a load of nutella and laxative in me engine oil' to data type int.
+24/01/2026 22:02:15 : Conversion failed when converting the varchar value 'So like this one time mate i put a load of nutella and laxative in me engine oil' to data type int.
+24/01/2026 22:31:57 : Conversion failed when converting the varchar value 'So like this one time mate i put a load of nutella and laxative in me engine oil' to data type int.
+24/01/2026 22:31:58 : Conversion failed when converting the varchar value 'So like this one time mate i put a load of nutella and laxative in me engine oil' to data type int.
+24/01/2026 22:38:05 : Index was outside the bounds of the array.
+25/01/2026 00:35:57 : Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+25/01/2026 03:15:12 : Index was outside the bounds of the array.
+25/01/2026 03:48:16 : Index was outside the bounds of the array.
+25/01/2026 03:55:30 : Index was outside the bounds of the array.
+25/01/2026 03:55:48 : Index was outside the bounds of the array.
+26/01/2026 09:27:36 : Incorrect syntax near 'Omagh'.
+The floating point value '5e884898' is out of the range of computer representation (8 bytes).
+Unclosed quotation mark after the character string ''.
+26/01/2026 09:36:08 : Conversion failed when converting the varchar value '5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8' to data type bit.
+27/01/2026 20:35:29 : Invalid attempt to read when no data is present.
+27/01/2026 21:04:31 : Invalid attempt to read when no data is present.
+27/01/2026 21:05:54 : Invalid attempt to read when no data is present.
+27/01/2026 21:17:44 : There was a problem resetting your password.
+28/01/2026 12:12:26 : Invalid attempt to read when no data is present.
+28/01/2026 12:14:03 : There was a problem resetting your password.
+29/01/2026 14:32:44 : The INSERT statement conflicted with the FOREIGN KEY constraint "FK__booking__staffID__3C69FB99". The conflict occurred in database "C:\USERS\HELLO\ONEDRIVE - C2K\_SCHOOL\COMPUTING\YR 14\PROJECT\YR-14-NATHANMCGEE-CA\DATABASE.MDF", table "dbo.staff", column 'staffID'.
+The statement has been terminated.
+29/01/2026 14:35:49 : The INSERT statement conflicted with the FOREIGN KEY constraint "FK__booking__staffID__3C69FB99". The conflict occurred in database "C:\USERS\HELLO\ONEDRIVE - C2K\_SCHOOL\COMPUTING\YR 14\PROJECT\YR-14-NATHANMCGEE-CA\DATABASE.MDF", table "dbo.staff", column 'staffID'.
+The statement has been terminated.
+29/01/2026 14:41:12 : The INSERT statement conflicted with the FOREIGN KEY constraint "FK__booking__staffID__3C69FB99". The conflict occurred in database "C:\USERS\HELLO\ONEDRIVE - C2K\_SCHOOL\COMPUTING\YR 14\PROJECT\YR-14-NATHANMCGEE-CA\DATABASE.MDF", table "dbo.staff", column 'staffID'.
+The statement has been terminated.
+29/01/2026 14:46:28 : The INSERT statement conflicted with the FOREIGN KEY constraint "FK__booking__staffID__3C69FB99". The conflict occurred in database "C:\USERS\HELLO\ONEDRIVE - C2K\_SCHOOL\COMPUTING\YR 14\PROJECT\YR-14-NATHANMCGEE-CA\DATABASE.MDF", table "dbo.staff", column 'staffID'.
+The statement has been terminated.
+29/01/2026 15:00:50 : The INSERT statement conflicted with the FOREIGN KEY constraint "FK__booking__staffID__3C69FB99". The conflict occurred in database "C:\USERS\HELLO\ONEDRIVE - C2K\_SCHOOL\COMPUTING\YR 14\PROJECT\YR-14-NATHANMCGEE-CA\DATABASE.MDF", table "dbo.staff", column 'staffID'.
+The statement has been terminated.
+02/02/2026 14:48:36 : Invalid attempt to read when no data is present.
+02/02/2026 15:01:15 : Invalid attempt to read when no data is present.
+03/02/2026 11:01:11 : Incorrect syntax near '11'.
+03/02/2026 11:01:12 : Incorrect syntax near '11'.
+03/02/2026 11:04:11 : Incorrect syntax near '11'.
+03/02/2026 11:04:12 : Incorrect syntax near '11'.
+03/02/2026 15:06:38 : Invalid attempt to read when no data is present.
+03/02/2026 15:07:28 : Invalid attempt to read when no data is present.
+03/02/2026 15:08:59 : Invalid attempt to read when no data is present.
+03/02/2026 15:09:58 : Invalid attempt to read when no data is present.
+03/02/2026 15:12:14 : Invalid attempt to read when no data is present.
+03/02/2026 19:56:01 : Invalid attempt to read when no data is present.
+04/02/2026 11:08:15 : Invalid attempt to read when no data is present.
+04/02/2026 11:12:12 : Invalid attempt to read when no data is present.
+04/02/2026 11:34:03 : Column name or number of supplied values does not match table definition.
+04/02/2026 11:37:58 : Column name or number of supplied values does not match table definition.
+04/02/2026 11:39:28 : An explicit value for the identity column in table 'booking' can only be specified when a column list is used and IDENTITY_INSERT is ON.
+04/02/2026 11:44:24 : An explicit value for the identity column in table 'booking' can only be specified when a column list is used and IDENTITY_INSERT is ON.
+04/02/2026 11:48:06 : Index was outside the bounds of the array.
+06/02/2026 16:57:43 : Unable to cast object of type 'System.Windows.Forms.Control[]' to type 'System.Windows.Forms.FlowLayoutPanel'.
+07/02/2026 15:47:27 : Index was outside the bounds of the array.
+07/02/2026 15:53:10 : Conversion failed when converting the varchar value '08/02/2026 09:00:00' to data type int.
+07/02/2026 16:09:44 : Conversion failed when converting the varchar value '08/02/2026 09:00:00' to data type int.
+08/02/2026 15:41:46 : Index and length must refer to a location within the string.
+Parameter name: length
+12/02/2026 00:47:15 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+12/02/2026 00:47:17 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+12/02/2026 01:17:10 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+12/02/2026 01:17:11 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+12/02/2026 02:37:30 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+12/02/2026 02:37:30 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+12/02/2026 14:54:58 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+12/02/2026 14:54:59 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+12/02/2026 16:42:16 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+12/02/2026 16:42:17 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+12/02/2026 16:47:03 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+12/02/2026 16:47:04 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+12/02/2026 17:03:47 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+12/02/2026 17:03:47 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+12/02/2026 17:25:38 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+12/02/2026 17:25:45 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+12/02/2026 17:27:09 : The UPDATE statement conflicted with the FOREIGN KEY constraint "FK__booking__staffID__74AE54BC". The conflict occurred in database "C:\USERS\BOLDIEGOLDIE\ONEDRIVE - C2K\_SCHOOL\COMPUTING\YR 14\PROJECT\YR-14-NATHANMCGEE-CA\DATABASE.MDF", table "dbo.staff", column 'staffID'.
+The statement has been terminated.
+12/02/2026 17:36:06 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+12/02/2026 17:36:09 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+12/02/2026 17:44:50 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+12/02/2026 17:44:50 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+12/02/2026 21:33:23 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+12/02/2026 21:33:24 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+12/02/2026 21:35:46 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+12/02/2026 21:35:47 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+12/02/2026 21:36:18 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+12/02/2026 21:36:19 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+12/02/2026 21:39:54 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+12/02/2026 21:39:55 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+12/02/2026 21:42:32 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+12/02/2026 21:42:33 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+12/02/2026 21:43:00 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+12/02/2026 21:43:01 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+12/02/2026 21:43:10 : Conversion failed when converting the varchar value '5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8' to data type bit.
+12/02/2026 21:46:56 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+12/02/2026 21:46:57 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+12/02/2026 21:59:57 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+12/02/2026 21:59:59 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+12/02/2026 22:23:31 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+12/02/2026 22:23:32 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+12/02/2026 22:54:29 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+12/02/2026 22:54:30 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+12/02/2026 22:54:41 : Value cannot be null.
+Parameter name: source
+12/02/2026 23:47:18 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+12/02/2026 23:47:19 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+12/02/2026 23:58:17 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+12/02/2026 23:58:18 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+13/02/2026 01:03:53 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+13/02/2026 01:03:54 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+13/02/2026 01:22:54 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+13/02/2026 01:22:55 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+13/02/2026 01:48:28 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+13/02/2026 01:48:29 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+13/02/2026 16:48:02 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+13/02/2026 16:48:03 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+13/02/2026 20:22:36 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+13/02/2026 20:22:36 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+13/02/2026 20:50:05 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+13/02/2026 20:50:06 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+13/02/2026 21:35:50 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+13/02/2026 21:35:51 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+13/02/2026 21:46:04 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+13/02/2026 21:46:05 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+13/02/2026 22:00:07 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+13/02/2026 22:00:08 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+13/02/2026 22:01:32 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+13/02/2026 22:01:33 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+14/02/2026 02:11:31 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+14/02/2026 02:11:32 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+14/02/2026 02:25:31 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+14/02/2026 02:25:32 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+14/02/2026 02:27:41 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+14/02/2026 02:27:42 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+14/02/2026 02:28:36 : String or binary data would be truncated.
+The statement has been terminated.
+14/02/2026 02:30:08 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+14/02/2026 02:30:09 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+14/02/2026 02:32:19 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+14/02/2026 02:32:20 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+14/02/2026 03:03:28 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+14/02/2026 03:03:29 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+14/02/2026 15:05:37 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+14/02/2026 15:05:38 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+15/02/2026 16:57:34 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+15/02/2026 16:57:35 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+15/02/2026 18:58:28 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+15/02/2026 18:58:29 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+15/02/2026 19:17:50 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+15/02/2026 19:17:51 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+15/02/2026 19:19:08 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+15/02/2026 19:19:09 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+15/02/2026 19:20:27 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+15/02/2026 19:20:28 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+15/02/2026 22:13:17 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+15/02/2026 22:13:19 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+17/02/2026 09:05:26 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+17/02/2026 09:05:27 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+17/02/2026 09:35:41 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+17/02/2026 09:35:43 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+17/02/2026 09:43:41 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+17/02/2026 09:43:42 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+17/02/2026 15:01:51 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+17/02/2026 15:01:54 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+17/02/2026 21:51:21 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+17/02/2026 21:51:22 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+17/02/2026 21:53:43 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+17/02/2026 21:53:44 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+18/02/2026 09:09:45 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+18/02/2026 09:09:47 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+18/02/2026 09:10:07 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+18/02/2026 09:10:07 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+18/02/2026 09:14:12 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+18/02/2026 09:14:13 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+18/02/2026 09:20:56 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+18/02/2026 09:20:57 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+18/02/2026 09:35:40 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+18/02/2026 09:35:41 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+18/02/2026 10:03:35 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+18/02/2026 10:03:36 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+19/02/2026 14:38:47 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+19/02/2026 14:38:49 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+20/02/2026 14:13:02 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+20/02/2026 14:13:03 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+20/02/2026 14:23:11 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+20/02/2026 14:23:12 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+20/02/2026 15:12:55 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+20/02/2026 15:12:56 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+20/02/2026 15:13:12 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+20/02/2026 15:13:12 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+20/02/2026 15:13:37 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+20/02/2026 15:13:38 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+21/02/2026 01:01:45 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+21/02/2026 01:01:45 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+21/02/2026 01:26:28 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+21/02/2026 01:26:29 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+21/02/2026 01:52:51 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+21/02/2026 01:52:52 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+21/02/2026 02:03:48 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+21/02/2026 02:03:49 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+22/02/2026 15:42:31 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+22/02/2026 15:42:32 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+22/02/2026 15:51:22 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+22/02/2026 15:51:24 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+22/02/2026 15:51:50 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+22/02/2026 15:52:34 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+22/02/2026 15:52:46 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+22/02/2026 15:54:12 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+22/02/2026 15:55:14 : The conversion of a varchar data type to a datetime data type resulted in an out-of-range value.
+25/02/2026 23:42:23 : Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+26/02/2026 00:27:17 : Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+26/02/2026 12:20:48 : The DELETE statement conflicted with the REFERENCE constraint "FK__maintenan__staff__3F466844". The conflict occurred in database "C:\USERS\HELLO\ONEDRIVE - C2K\_SCHOOL\COMPUTING\YR 14\PROJECT\YR-14-NATHANMCGEE-CA\DATABASE.MDF", table "dbo.maintenance", column 'staffID'.
+The statement has been terminated.
+27/02/2026 02:58:29 : Index was outside the bounds of the array.
+27/02/2026 02:58:54 : Index was outside the bounds of the array.
+27/02/2026 09:52:50 : isComplete
+27/02/2026 12:13:56 : Invalid attempt to call MetaData when reader is closed.
+27/02/2026 22:54:29 : isCancelled
+27/02/2026 22:54:32 : isCancelled
+27/02/2026 23:01:31 : Index was outside the bounds of the array.
+02/03/2026 00:46:29 : Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+02/03/2026 00:47:48 : Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+02/03/2026 00:49:26 : Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+05/03/2026 22:58:00 : Conversion failed when converting the varchar value '90t' to data type int.
+05/03/2026 23:01:10 : Conversion failed when converting the varchar value '90t' to data type int.
+05/03/2026 23:15:51 : Index was outside the bounds of the array.
+05/03/2026 23:15:55 : Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+05/03/2026 23:18:33 : Index was outside the bounds of the array.
+05/03/2026 23:19:12 : Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+05/03/2026 23:20:21 : Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+06/03/2026 09:43:42 : Invalid column name 'WW13INI'.
+06/03/2026 09:44:52 : Invalid column name 'ABC1234'.
+06/03/2026 09:45:50 : Invalid column name 'WW13INI'.
+06/03/2026 09:46:53 : Invalid column name 'ABC1234'.
+06/03/2026 09:49:57 : Incorrect syntax near 'Licence'.
+06/03/2026 09:52:19 : Invalid column name 'ABC1234'.
+06/03/2026 09:53:57 : Invalid column name 'WW13INI'.
+08/03/2026 22:44:49 : Column name or number of supplied values does not match table definition.
+08/03/2026 22:44:59 : Column name or number of supplied values does not match table definition.

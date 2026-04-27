@@ -1,0 +1,317 @@
+26/02/2026 12:41:44 | jmanager6 : Creating Audit Log.
+26/02/2026 12:41:45 | jmanager6 : Staff member signed in.
+26/02/2026 12:43:47 | jmanager6 : Staff member signed in.
+26/02/2026 12:43:55 | jmanager6 : Opened audit log.
+26/02/2026 12:45:26 | No Staff signed in : Created new Settings.dat file.
+26/02/2026 12:46:11 | jmanager6 : Staff member signed in.
+26/02/2026 12:46:32 | jmanager6 : Opened audit log.
+26/02/2026 12:46:44 | jmanager6 : Opened audit log.
+26/02/2026 12:46:58 | jmanager6 : Exited program.
+26/02/2026 12:47:33 | jmanager6 : Staff member signed in.
+26/02/2026 12:48:58 | jmanager6 : Created Staff member jmanager11
+26/02/2026 12:50:26 | jmanager6 : Created Staff member jstaff12
+26/02/2026 12:50:47 | jmanager6 : Edited Staff member jmanager11
+26/02/2026 12:55:54 | jmanager6 : Staff member signed in.
+26/02/2026 12:56:07 | jmanager6 : Edited Staff member jstaff12
+26/02/2026 12:56:19 | jmanager6 : Edited Staff member jstaff12
+26/02/2026 12:56:25 | jmanager6 : Edited Staff member jmanager11
+26/02/2026 23:01:29 | jmanager6 : Staff member signed in.
+26/02/2026 23:37:37 | jmanager6 : Staff member signed in.
+26/02/2026 23:41:57 | jmanager6 : Staff member signed in.
+26/02/2026 23:44:26 | jmanager6 : Staff member signed in.
+27/02/2026 00:58:10 | jmanager6 : Changed settings.
+27/02/2026 01:01:14 | jmanager6 : Changed settings.
+27/02/2026 01:01:25 | jmanager6 : Changed settings.
+27/02/2026 01:01:41 | jmanager6 : Changed settings.
+27/02/2026 01:01:55 | jmanager6 : Changed settings.
+27/02/2026 01:04:07 | jmanager6 : Staff member signed in.
+27/02/2026 01:05:03 | No Staff signed in : Created new Settings.dat file.
+27/02/2026 01:05:51 | jmanager6 : Staff member signed in.
+27/02/2026 01:14:32 | jmanager6 : Created Test Drive payment of £0 for Mr John Doe
+27/02/2026 01:14:35 | jmanager6 : Created a 30mins Test Drive booking for Mr John Doe of car WW13INI with staff member jmanager6
+27/02/2026 01:15:06 | jmanager6 : Created Test Drive payment of £0 for Mrs Jane Doe
+27/02/2026 01:15:07 | jmanager6 : Created a 30mins Test Drive booking for Mrs Jane Doe of car WW13INI with staff member jmanager6
+27/02/2026 01:15:57 | jmanager6 : Created Test Drive payment of £80 for Mr John Doe
+27/02/2026 01:16:01 | jmanager6 : Created a day Test Drive booking for Mr John Doe of car ABC 1234
+27/02/2026 01:16:34 | jmanager6 : Created Test Drive payment of £0 for Mrs Jane Doe
+27/02/2026 01:16:36 | jmanager6 : Created a 30mins Test Drive booking for Mrs Jane Doe of car ABC 1234 with staff member jmanager6
+27/02/2026 02:27:54 | jmanager6 : Created Test Drive payment of £148.75 for Mrs Jane Doe
+27/02/2026 02:27:56 | jmanager6 : Created a weekend Test Drive booking for Mrs Jane Doe of car ABC 1234
+27/02/2026 02:30:29 | jmanager6 : Edited customer: Mr John Doe
+27/02/2026 02:30:53 | jmanager6 : Edited customer: Test Test Customer
+27/02/2026 02:39:42 | jmanager6 : Edited customer: Test Test Customer
+27/02/2026 02:42:35 | jmanager6 : Edited customer: Test Test Customer
+27/02/2026 02:50:51 | jmanager6 : Staff member signed in.
+27/02/2026 02:52:50 | jmanager6 : Staff member signed in.
+27/02/2026 02:58:31 | jmanager6 : Opened audit log.
+27/02/2026 02:58:36 | jmanager6 : Opened audit log.
+27/02/2026 03:11:06 | jmanager6 : Staff member signed in.
+27/02/2026 03:16:28 | jmanager6 : Staff member signed in.
+27/02/2026 03:33:56 | jmanager6 : Changed settings.
+27/02/2026 03:34:38 | jmanager6 : Edited customer: Mr John Doe
+27/02/2026 03:34:55 | jmanager6 : Edited a 30mins Test Drive booking for Mr John Doe of car WW13INI with staff member jmanager6
+27/02/2026 03:35:24 | jmanager6 : Opened audit log.
+27/02/2026 03:37:22 | jmanager6 : Edited a 30mins Test Drive booking for Mr John Doe of car WW13INI with staff member jmanager6
+27/02/2026 03:40:14 | jmanager6 : Exited program.
+27/02/2026 09:47:34 | jmanager6 : Staff member signed in.
+27/02/2026 09:48:26 | jmanager6 : Changed settings.
+27/02/2026 09:52:45 | jmanager6 : Changed settings.
+27/02/2026 09:52:55 | jmanager6 : Opened audit log.
+27/02/2026 09:54:31 | jmanager6 : Staff member signed in.
+27/02/2026 11:22:59 | jmanager6 : Exited program.
+27/02/2026 11:23:21 | jmanager6 : Staff member signed in.
+27/02/2026 12:02:50 | jmanager6 : Created Test Drive payment of £0 for Mr John Doe
+27/02/2026 12:02:52 | jmanager6 : Created a 30mins Test Drive booking for Mr John Doe of car ABC 1234 with staff member jmanager6
+27/02/2026 12:03:11 | jmanager6 : Created Test Drive payment of £0 for Mr John Doe
+27/02/2026 12:03:12 | jmanager6 : Created a 30mins Test Drive booking for Mr John Doe of car CE09CVY with staff member jmanager6
+27/02/2026 12:03:26 | jmanager6 : Created Test Drive payment of £0 for Mr John Doe
+27/02/2026 12:03:28 | jmanager6 : Created a 30mins Test Drive booking for Mr John Doe of car GA05IUY with staff member jmanager6
+27/02/2026 12:03:47 | jmanager6 : Created Test Drive payment of £0 for Mr John Doe
+27/02/2026 12:03:49 | jmanager6 : Created a 30mins Test Drive booking for Mr John Doe of car WW13INI with staff member jmanager6
+27/02/2026 12:11:53 | jmanager6 : Staff member signed in.
+27/02/2026 12:13:57 | jmanager6 : Created Test Drive payment of £0 for Mrs Jane Doe
+27/02/2026 12:13:59 | jmanager6 : Created a 30mins Test Drive booking for Mrs Jane Doe of car ABC 1234 with staff member jmanager11
+27/02/2026 12:14:04 | jmanager6 : Opened audit log.
+27/02/2026 12:15:06 | jmanager6 : Created Test Drive payment of £0 for Mrs Jane Doe
+27/02/2026 12:15:07 | jmanager6 : Created a 30mins Test Drive booking for Mrs Jane Doe of car GA05IUY with staff member jmanager11
+27/02/2026 12:15:25 | jmanager6 : Created Test Drive payment of £0 for Mr John Doe
+27/02/2026 12:15:27 | jmanager6 : Created a 30mins Test Drive booking for Mr John Doe of car WW13INI with staff member jmanager6
+27/02/2026 12:16:54 | jmanager6 : Created Test Drive payment of £0 for Mr John Doe
+27/02/2026 12:16:56 | jmanager6 : Created a 30mins Test Drive booking for Mr John Doe of car KHZ 7530 with staff member jmanager6
+27/02/2026 12:17:38 | jmanager6 : Created Test Drive payment of £0 for Mrs Jane Doe
+27/02/2026 12:17:40 | jmanager6 : Created a 30mins Test Drive booking for Mrs Jane Doe of car KHZ 7530 with staff member jmanager6
+27/02/2026 12:18:32 | jmanager6 : Created Test Drive payment of £0 for Mr John Doe
+27/02/2026 12:18:34 | jmanager6 : Created a 30mins Test Drive booking for Mr John Doe of car CE09CVY with staff member jstaff12
+27/02/2026 12:18:50 | jmanager6 : Created Test Drive payment of £0 for Mr John Doe
+27/02/2026 12:18:51 | jmanager6 : Created a 30mins Test Drive booking for Mr John Doe of car GA05IUY with staff member jmanager11
+27/02/2026 12:28:10 | jmanager6 : Created Test Drive payment of £0 for Mr John Doe
+27/02/2026 12:28:12 | jmanager6 : Created a 30mins Test Drive booking for Mr John Doe of car ABC 1234 with staff member jmanager6
+27/02/2026 12:28:58 | jmanager6 : Created Test Drive payment of £0 for Mrs Jane Doe
+27/02/2026 12:28:59 | jmanager6 : Created a 30mins Test Drive booking for Mrs Jane Doe of car CE09CVY with staff member jmanager11
+27/02/2026 12:34:36 | jmanager6 : Staff member signed in.
+27/02/2026 12:37:00 | jmanager6 : Created Test Drive payment of £0 for Mrs Jane Doe
+27/02/2026 12:37:02 | jmanager6 : Created a 30mins Test Drive booking for Mrs Jane Doe of car WW13INI with staff member jmanager6
+27/02/2026 12:45:36 | jmanager6 : Staff member signed in.
+27/02/2026 12:52:07 | jmanager6 : Staff member signed in.
+27/02/2026 12:57:14 | jmanager6 : Staff member signed in.
+27/02/2026 13:01:20 | jmanager6 : Staff member signed in.
+27/02/2026 14:07:00 | jmanager6 : Staff member signed in.
+27/02/2026 14:15:59 | jmanager6 : Staff member signed in.
+27/02/2026 14:17:29 | jmanager6 : Staff member signed in.
+27/02/2026 14:18:16 | jmanager6 : Exited program.
+27/02/2026 14:21:26 | jmanager6 : Staff member signed in.
+27/02/2026 14:44:25 | jmanager6 : Staff member signed in.
+27/02/2026 14:55:27 | jmanager6 : Changed settings.
+27/02/2026 14:58:32 | jmanager6 : Changed settings.
+27/02/2026 14:58:44 | jmanager6 : Changed settings.
+27/02/2026 15:01:18 | jmanager6 : Created Test Drive payment of £0 for Mrs Jane Doe
+27/02/2026 15:01:19 | jmanager6 : Created a 30mins Test Drive booking for Mrs Jane Doe of car WW13INI with staff member jstaff12
+27/02/2026 22:24:13 | jmanager6 : Staff member signed in.
+27/02/2026 22:33:58 | jmanager6 : Staff member signed in.
+27/02/2026 22:54:36 | jmanager6 : Opened audit log.
+27/02/2026 22:54:39 | jmanager6 : Opened audit log.
+27/02/2026 22:56:43 | jmanager6 : Staff member signed in.
+27/02/2026 22:58:58 | jmanager6 : Staff member signed in.
+27/02/2026 23:00:25 | jmanager6 : Staff member signed in.
+27/02/2026 23:01:26 | jmanager6 : Cancelled booking of car CE09CVY for Mr John Doe.
+27/02/2026 23:02:20 | jmanager6 : Opened audit log.
+27/02/2026 23:03:21 | jmanager6 : Staff member signed in.
+27/02/2026 23:03:40 | jmanager6 : Cancelled booking of car CE09CVY for Mr John Doe.
+27/02/2026 23:05:36 | jmanager6 : Staff member signed in.
+27/02/2026 23:05:50 | jmanager6 : Cancelled booking of car CE09CVY for Mr John Doe.
+27/02/2026 23:08:13 | jmanager6 : Staff member signed in.
+27/02/2026 23:08:22 | jmanager6 : Cancelled booking of car CE09CVY for Mr John Doe.
+27/02/2026 23:10:29 | jmanager6 : Staff member signed in.
+27/02/2026 23:10:39 | jmanager6 : Cancelled booking of car CE09CVY for Mr John Doe.
+27/02/2026 23:12:56 | jmanager6 : Staff member signed in.
+27/02/2026 23:13:08 | jmanager6 : Cancelled booking of car CE09CVY for Mr John Doe.
+27/02/2026 23:15:50 | jmanager6 : Cancelled booking of car CE09CVY for Mr John Doe.
+27/02/2026 23:33:39 | jmanager6 : Exited program.
+27/02/2026 23:37:01 | jmanager6 : Staff member signed in.
+27/02/2026 23:37:12 | jmanager6 : Opened audit log.
+27/02/2026 23:37:25 | jmanager6 : Opened audit log.
+27/02/2026 23:39:14 | jmanager6 : Staff member signed in.
+28/02/2026 00:55:41 | jmanager6 : Staff member signed in.
+28/02/2026 02:22:56 | jmanager6 : Exited program.
+28/02/2026 14:27:39 | jmanager6 : Staff member signed in.
+28/02/2026 14:41:50 | jmanager6 : Exited program.
+28/02/2026 15:23:34 | jmanager6 : Staff member signed in.
+28/02/2026 15:34:04 | jmanager6 : Staff member signed in.
+28/02/2026 15:44:40 | jmanager6 : Marked payment of £0.00 for Test Drive Payment, for customer Mrs Jane Doe as paid.
+28/02/2026 16:49:24 | jmanager6 : Marked payment of £0.00 for Test Drive Payment, for customer Mrs Jane Doe as refunded.
+28/02/2026 16:50:53 | jmanager6 : Staff member signed in.
+28/02/2026 16:51:48 | jmanager6 : Staff member signed in.
+28/02/2026 16:52:39 | jmanager6 : Staff member signed in.
+28/02/2026 16:53:48 | jmanager6 : Marked payment of £0.00 for Test Drive Payment, for customer Mrs Jane Doe as not refunded.
+28/02/2026 16:53:54 | jmanager6 : Marked payment of £0.00 for Test Drive Payment, for customer Mrs Jane Doe as unpaid.
+28/02/2026 16:55:03 | jmanager6 : Edited customer: Mrs Jane Doe
+28/02/2026 16:55:14 | jmanager6 : Edited customer: Mrs Jane Doe
+28/02/2026 22:17:36 | jmanager6 : Staff member signed in.
+28/02/2026 23:54:15 | jmanager6 : Staff member signed in.
+01/03/2026 02:33:12 | jmanager6 : Exited program.
+01/03/2026 16:05:53 | jmanager6 : Staff member signed in.
+01/03/2026 19:29:24 | jmanager6 : Staff member signed in.
+01/03/2026 22:30:16 | jmanager6 : Staff member signed in.
+02/03/2026 00:46:11 | jmanager6 : Staff member signed in.
+02/03/2026 00:46:35 | jmanager6 : Opened audit log.
+02/03/2026 00:50:07 | jmanager6 : Created Test Drive payment of £80 for Test Test Customer
+02/03/2026 00:50:09 | jmanager6 : Created a day Test Drive booking for Test Test Customer of car WW13INI
+02/03/2026 00:50:53 | jmanager6 : Staff member signed in.
+02/03/2026 00:51:16 | jmanager6 : Exported Customer Report of Test Test Customer.
+02/03/2026 01:27:36 | jmanager6 : Edited customer: Mrs Jane Doe
+02/03/2026 01:27:49 | jmanager6 : Edited customer: Mrs Jane Doe
+02/03/2026 04:13:19 | jmanager6 : Exited program.
+02/03/2026 14:55:50 | jmanager6 : Staff member signed in.
+02/03/2026 14:55:59 | jmanager6 : Edited customer: Mrs Jane Doe
+02/03/2026 14:56:04 | jmanager6 : Edited customer: Mrs Jane Doe
+03/03/2026 02:55:11 | jmanager6 : Signed out.
+03/03/2026 14:08:43 | jmanager6 : Staff member signed in.
+04/03/2026 00:54:13 | jmanager6 : Staff member signed in.
+04/03/2026 00:56:26 | jmanager6 : Staff member signed in.
+04/03/2026 00:58:13 | jmanager6 : Staff member signed in.
+04/03/2026 01:02:20 | jmanager6 : Staff member signed in.
+04/03/2026 01:14:30 | jmanager6 : Signed out.
+04/03/2026 01:15:11 | jstaff10 : Staff member signed in.
+04/03/2026 01:15:35 | jstaff10 : Granted manager approval by jmanager6
+05/03/2026 00:57:16 | jmanager6 : Staff member signed in.
+05/03/2026 12:28:41 | jmanager6 : Staff member signed in.
+05/03/2026 12:57:35 | jmanager6 : Staff member signed in.
+05/03/2026 14:55:30 | jmanager6 : Staff member signed in.
+05/03/2026 15:05:59 | jmanager6 : Created customer: Mrs Susan Collins
+05/03/2026 15:12:23 | jmanager6 : Edited customer: Mrs Susan Collins
+05/03/2026 16:28:36 | jmanager6 : Staff member signed in.
+05/03/2026 16:56:40 | jmanager6 : Signed out.
+05/03/2026 16:56:59 | jstaff10 : Staff member signed in.
+05/03/2026 17:01:42 | jstaff10 : Staff member signed in.
+05/03/2026 18:21:56 | jstaff10 : Granted manager approval by jmanager6
+05/03/2026 18:21:56 | jstaff10 : Archived customer Susan Collins susan.collins@hotmail.com.
+05/03/2026 18:45:25 | jstaff10 : Granted manager approval by jmanager6
+05/03/2026 18:45:25 | jstaff10 : Archived customer Susan Collins susan.collins@hotmail.com.
+05/03/2026 18:50:00 | jstaff10 : Granted manager approval by jmanager6
+05/03/2026 18:50:00 | jstaff10 : Deleted customer Test Customer test@test.com.
+05/03/2026 19:04:53 | jstaff10 : Signed out.
+05/03/2026 19:05:09 | jmanager6 : Staff member signed in.
+05/03/2026 19:26:36 | jmanager6 : Created Staff member pdoherty13
+05/03/2026 19:38:14 | jmanager6 : Edited Staff member pdoherty13
+05/03/2026 19:44:19 | jmanager6 : Staff member signed in.
+05/03/2026 19:49:09 | jmanager6 : Archived Staff member pdoherty13.
+05/03/2026 20:04:12 | jmanager6 : Unarchived Staff member pdoherty13.
+05/03/2026 21:49:18 | jmanager6 : Created Test Drive payment of £68 for Mrs Susan Collins
+05/03/2026 21:49:19 | jmanager6 : Created a day Test Drive booking for Mrs Susan Collins of car KHZ7530
+05/03/2026 21:59:35 | jmanager6 : Edited a day Test Drive booking for Mr John Doe of car KHZ7530
+05/03/2026 22:00:18 | jmanager6 : Edited a day Test Drive booking for Mrs Susan Collins of car KHZ7530
+05/03/2026 22:08:03 | jmanager6 : Edited a day Test Drive booking for Mrs Susan Collins of car KHZ7530
+05/03/2026 22:45:00 | jmanager6 : Staff member signed in.
+05/03/2026 22:57:58 | jmanager6 : Cancelled booking of car KHZ7530 for Mrs Susan Collins.
+05/03/2026 22:58:05 | jmanager6 : Opened audit log.
+05/03/2026 22:59:44 | jmanager6 : Cancelled booking of car KHZ7530 for Mrs Susan Collins.
+05/03/2026 23:04:18 | jmanager6 : Cancelled booking of car GA05IUY for Mr John Doe.
+05/03/2026 23:05:20 | jmanager6 : Cancelled booking of car KHZ7530 for Mrs Susan Collins.
+05/03/2026 23:10:28 | jmanager6 : Cancelled booking of car KHZ7530 for Mrs Susan Collins.
+05/03/2026 23:11:56 | jmanager6 : Cancelled booking of car KHZ7530 for Mrs Susan Collins.
+05/03/2026 23:14:19 | jmanager6 : Staff member signed in.
+05/03/2026 23:15:28 | jmanager6 : Staff member signed in.
+05/03/2026 23:15:40 | jmanager6 : Cancelled booking of car KHZ7530 for Mrs Susan Collins.
+05/03/2026 23:15:54 | jmanager6 : Cancelled booking of car KHZ7530 for Mrs Susan Collins.
+05/03/2026 23:16:00 | jmanager6 : Opened audit log.
+05/03/2026 23:16:08 | jmanager6 : Opened audit log.
+05/03/2026 23:16:44 | jmanager6 : Cancelled booking of car KHZ7530 for Mrs Susan Collins.
+05/03/2026 23:18:42 | jmanager6 : Cancelled booking of car KHZ7530 for Mrs Susan Collins.
+05/03/2026 23:19:15 | jmanager6 : Cancelled booking of car KHZ7530 for Mrs Susan Collins.
+05/03/2026 23:20:48 | jmanager6 : Cancelled booking of car KHZ7530 for Mrs Susan Collins.
+05/03/2026 23:23:48 | jmanager6 : Staff member signed in.
+05/03/2026 23:30:24 | jmanager6 : Staff member signed in.
+05/03/2026 23:34:02 | jmanager6 : Staff member signed in.
+05/03/2026 23:34:59 | jmanager6 : Staff member signed in.
+05/03/2026 23:54:16 | jmanager6 : Staff member signed in.
+05/03/2026 23:57:31 | jmanager6 : Staff member signed in.
+06/03/2026 00:02:05 | jmanager6 : Staff member signed in.
+06/03/2026 00:03:48 | jmanager6 : Staff member signed in.
+06/03/2026 00:05:58 | jmanager6 : Staff member signed in.
+06/03/2026 00:07:42 | jmanager6 : Staff member signed in.
+06/03/2026 00:11:15 | jmanager6 : Staff member signed in.
+06/03/2026 00:21:19 | jmanager6 : Staff member signed in.
+06/03/2026 00:26:42 | jmanager6 : Staff member signed in.
+06/03/2026 01:05:14 | jmanager6 : Exited program.
+06/03/2026 01:12:52 | jmanager6 : Staff member signed in.
+06/03/2026 01:19:19 | jmanager6 : Staff member signed in.
+06/03/2026 01:36:39 | jmanager6 : Staff member signed in.
+06/03/2026 01:40:37 | jmanager6 : Staff member signed in.
+06/03/2026 01:54:24 | jmanager6 : Marked payment of £80.00 for Test Drive Payment, for customer Test Test Customer as paid.
+06/03/2026 01:56:03 | jmanager6 : Marked payment of £80.00 for Test Drive Payment, for customer Test Test Customer as refunded.
+06/03/2026 02:02:40 | jmanager6 : Staff member signed in.
+06/03/2026 08:57:24 | jmanager6 : Staff member signed in.
+06/03/2026 09:02:56 | jmanager6 : Staff member signed in.
+06/03/2026 09:05:34 | jmanager6 : Staff member signed in.
+06/03/2026 09:06:07 | jmanager6 : Staff member signed in.
+06/03/2026 09:08:22 | jmanager6 : Staff member signed in.
+06/03/2026 09:11:56 | jmanager6 : Staff member signed in.
+06/03/2026 09:13:33 | jmanager6 : Staff member signed in.
+06/03/2026 09:17:20 | jmanager6 : Staff member signed in.
+06/03/2026 09:18:12 | jmanager6 : Created Test Drive payment of £0 for Test Test Customer
+06/03/2026 09:18:13 | jmanager6 : Created a 30mins Test Drive booking for Test Test Customer of car WW13INI with staff member jmanager6
+06/03/2026 09:21:05 | jmanager6 : Staff member signed in.
+06/03/2026 09:27:33 | jmanager6 : Staff member signed in.
+06/03/2026 09:32:10 | jmanager6 : Staff member signed in.
+06/03/2026 09:34:29 | jmanager6 : Staff member signed in.
+06/03/2026 09:36:38 | jmanager6 : Staff member signed in.
+06/03/2026 09:43:37 | jmanager6 : Staff member signed in.
+06/03/2026 09:44:44 | jmanager6 : Staff member signed in.
+06/03/2026 09:45:00 | jmanager6 : Opened audit log.
+06/03/2026 09:45:55 | jmanager6 : Opened audit log.
+06/03/2026 09:46:58 | jmanager6 : Opened audit log.
+06/03/2026 09:49:51 | jmanager6 : Staff member signed in.
+06/03/2026 09:50:02 | jmanager6 : Opened audit log.
+06/03/2026 09:51:17 | jmanager6 : Staff member signed in.
+06/03/2026 09:55:09 | jmanager6 : Staff member signed in.
+06/03/2026 10:03:55 | jmanager6 : Staff member signed in.
+06/03/2026 10:13:57 | jmanager6 : Staff member signed in.
+06/03/2026 10:15:59 | jmanager6 : Staff member signed in.
+06/03/2026 10:21:22 | jmanager6 : Staff member signed in.
+06/03/2026 10:23:19 | jmanager6 : Staff member signed in.
+06/03/2026 11:08:16 | jmanager6 : Staff member signed in.
+06/03/2026 11:39:23 | jmanager6 : Staff member signed in.
+06/03/2026 12:02:45 | jmanager6 : Staff member signed in.
+06/03/2026 12:44:31 | jmanager6 : Staff member signed in.
+06/03/2026 12:46:57 | jmanager6 : Staff member signed in.
+06/03/2026 12:52:28 | jmanager6 : Staff member signed in.
+06/03/2026 14:10:33 | jmanager6 : Staff member signed in.
+06/03/2026 14:43:58 | jmanager6 : Staff member signed in.
+06/03/2026 14:44:31 | jmanager6 : Exited program.
+06/03/2026 14:49:46 | jmanager6 : Staff member signed in.
+06/03/2026 14:52:23 | jmanager6 : Exited program.
+06/03/2026 14:52:40 | jmanager6 : Staff member signed in.
+07/03/2026 22:52:38 | jmanager6 : Staff member signed in.
+07/03/2026 22:54:41 | jmanager6 : Staff member signed in.
+07/03/2026 22:59:32 | jmanager6 : Staff member signed in.
+07/03/2026 23:06:07 | jmanager6 : Staff member signed in.
+07/03/2026 23:08:12 | jmanager6 : Staff member signed in.
+07/03/2026 23:09:28 | jmanager6 : Staff member signed in.
+07/03/2026 23:10:59 | jmanager6 : Staff member signed in.
+07/03/2026 23:12:46 | jmanager6 : Staff member signed in.
+07/03/2026 23:27:12 | jmanager6 : Staff member signed in.
+07/03/2026 23:57:43 | jmanager6 : Staff member signed in.
+08/03/2026 00:04:15 | jmanager6 : Staff member signed in.
+08/03/2026 00:07:18 | jmanager6 : Staff member signed in.
+08/03/2026 00:13:33 | jmanager6 : Staff member signed in.
+08/03/2026 16:49:35 | jmanager6 : Staff member signed in.
+08/03/2026 16:52:45 | jmanager6 : Staff member signed in.
+08/03/2026 17:00:10 | jmanager6 : Staff member signed in.
+08/03/2026 17:08:05 | jmanager6 : Staff member signed in.
+08/03/2026 17:13:02 | jmanager6 : Staff member signed in.
+08/03/2026 17:28:39 | jmanager6 : Signed out.
+08/03/2026 17:42:59 | jmanager6 : Staff member signed in.
+08/03/2026 17:44:58 | jmanager6 : Staff member signed in.
+08/03/2026 21:44:12 | jmanager6 : Staff member signed in.
+08/03/2026 22:09:21 | jmanager6 : Staff member signed in.
+08/03/2026 22:12:46 | jmanager6 : Staff member signed in.
+08/03/2026 22:26:10 | jmanager6 : Staff member signed in.
+08/03/2026 22:31:12 | jmanager6 : Staff member signed in.
+08/03/2026 22:43:59 | jmanager6 : Staff member signed in.
+08/03/2026 22:45:23 | jmanager6 : Opened audit log.
+08/03/2026 22:48:08 | jmanager6 : Opened audit log.
+08/03/2026 22:48:35 | jmanager6 : Signed out.
+09/03/2026 01:40:12 | jmanager6 : Staff member signed in.
+06/03/2026 01:40:40 | jmanager6 : Exited program.
+06/03/2026 01:40:52 | jmanager6 : Staff member signed in.
+13/03/2026 12:02:28 | jmanager6 : Staff member signed in.
